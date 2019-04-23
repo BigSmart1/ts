@@ -1,1 +1,4 @@
-# ts
+dadddad
+cd
+:wq
+
